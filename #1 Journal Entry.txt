@@ -1,0 +1,17 @@
+
+Week 1
+Learning Activities
+This week, I learned all the learning materials from the lectures before successfully creating a website based on a music teaching business. 
+
+Resources and Links
+https://hpanel.hostinger.com/ (hosting) VS Code (Development)
+Pictures - https://musicteacher.com/wp-content/uploads/2021/03/guitar-teacher.jpg, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc0vd8gMPNfhUcRRcO046K9HuSdyGqYdUmz4MVrj71uhpASHCvkUyzYu9gQFI9Oq-Z2dw&usqp=CAU, https://cdn.mos.cms.futurecdn.net/pfG6nG35KhLqdKDjbH6XHY.jpg, https://cdn.mos.cms.futurecdn.net/3gjUosYWivoiH25Taj3J2c-1200-80.jpg
+
+Estimated Hours
+I spent roughly 1 hour creating the website, 1 hour setting up the host, 1 hour of troubleshooting, and 0 hours on the assignment. 
+
+Content Insights
+I believe using something I was interested in helped me want to learn more about website development and CMS, to help my enthusiasm for later. It was very helpful to go back to my old website development work from previous uni classes to use for help with any issues or problems I faced. 
+
+Career/Employability/Learning Insights
+After finishing this prac, I started the next practical and tried setting up Joomla with my host provider (Hostinger). I did run into a bunch of issues but I was able to install Joomla, eventually. 
