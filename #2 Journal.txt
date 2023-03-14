@@ -1,0 +1,17 @@
+
+Week 2
+Learning Activities
+This week, I learned how to integrate Joomla with my hosting provider and created a website using Joomla. 
+
+Resources and Links
+https://hpanel.hostinger.com/ (hosting) 
+Pictures - https://musicteacher.com/wp-content/uploads/2021/03/guitar-teacher.jpg, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc0vd8gMPNfhUcRRcO046K9HuSdyGqYdUmz4MVrj71uhpASHCvkUyzYu9gQFI9Oq-Z2dw&usqp=CAU, https://cdn.mos.cms.futurecdn.net/pfG6nG35KhLqdKDjbH6XHY.jpg, https://cdn.mos.cms.futurecdn.net/3gjUosYWivoiH25Taj3J2c-1200-80.jpg
+
+Estimated Hours
+I spent roughly 1 hour creating the website, 1 hour setting up the host, and 3 hours of troubleshooting. 
+
+Content Insights
+I struggled to find out how to integrate/install Joomla with Hostinger but once it was installed, I thought it wasn't too difficult to create the website with Joomla. After tons of research, I was able to find out how to install Joomla. Luckily, the hosting provider comes with its own auto-installer. 
+
+Career/Employability/Learning Insights
+After finishing this prac, I started the next practical and looked into setting up WordPress. Luckily, the host provider has its own auto-installer so it should install WordPress easily. 
