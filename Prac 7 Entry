@@ -1,0 +1,19 @@
+Practical 7
+
+Description
+This week, I had to demonstrate my PHP skills by creating a login forum that only grants access if the correct username and password is given.
+
+Feelings:
+I was bit anxious about this prac as I haven't had much experience in php, but I was excited to learn about it. Once the prac was completed, I was happy with the result. 
+
+Evaluation:
+The first impressions of creating the login forum was a bit alarming but after a few hours of research, I became more comfortable with php. 
+ 
+Analuysis:
+I believe I have met all requirements, but if I could do more for this prac, I would focus more on design after enhancing the functionality.
+
+Conclusion:
+For this prac, I believe more extensive research would greatly help me with my php skills.  
+
+Action plan:
+For future pracs like this, I will focus on applying security enhancements if it uses a local or cloud SQL connection. The credentials for my prac were set locally in a different php file. 
